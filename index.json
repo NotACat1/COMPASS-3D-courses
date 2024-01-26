@@ -28,34 +28,10 @@
     ]
   },
   {
-    "description": "В этой части обучения мы рассмотрим ключевые аспекты создания сложных сборок с взаимодействием различных компонентов. Мероприятие предоставит возможность проверить ваши навыки в этой области, охватывая разнообразные задачи и оценивая ваше владение принципами работы с компонентами и соединениями в сборке.",
-    "icon": {
-      "caption": "Контрольное мероприятие: Создание сборок",
-      "path": "https://www.bing.com/images/create/d0bcd0b8d0bdd0b8d0bcd0b0d0bbd0b8d181d182d0b8d187d0bdd0bed0b5-d0b8d0b7d0bed0b1d180d0b0d0b6d0b5d0bdd0b8d0b5-d098d0b7d183d187d0b5d0bdd0b8d0b5-d181d0bbd0bed0b6d0bdd18bd185-d181d0b1d0bed180d0bd/1-65b3648908984dc58b97874d08ddfe13?id=iBv5%2b275NyBtfQH83ebraQ%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
-    },
-    "duration": 12,
-    "id": "0880c01b-7864-48e5-a8a2-0aefaca08837",
-    "title": "Контрольное мероприятие",
-    "lessons": [
-      {
-        "title": "Контрольное мероприятие. Введение",
-        "id": "d1ddb744-4054-4c3f-886c-9dd9dbbf7072"
-      },
-      {
-        "title": "Сборка",
-        "id": "d8355e13-841f-4130-ba81-abf4ff17d2c9"
-      },
-      {
-        "title": "Контрольное мероприятие. Заключение",
-        "id": "5cd8f23f-7165-4e97-b5d5-d9b98fb2508c"
-      }
-    ]
-  },
-  {
     "description": "Здесь вы освоите ключевые шаги начала работы с программой КОМПАС-3D. Мы проведем вас через процесс установки, подготовки к работе и первые шаги в программе. Этот модуль не только предоставит техническую инструкцию по установке, но и подготовит вас к захватывающему миру трехмерного моделирования.",
     "icon": {
       "caption": "Установка и первый запуск",
-      "path": "https://www.bing.com/images/create/d0bcd0b8d0bdd0b8d0bcd0b0d0bbd0b8d181d182d0b8d187d0bdd0bed0b5-d0b8d0b7d0bed0b1d180d0b0d0b6d0b5d0bdd0b8d0b5-d0a3d181d182d0b0d0bdd0bed0b2d0bad0b0-d0bfd180d0b8d0bbd0bed0b6d0b5d0bdd0b8d18f-d0bd/1-65b3632abd5f48a9b14970b577bba2ae?id=QTSOm4Kv8i7s8tScNsQt7w%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
+      "path": "https://th.bing.com/th/id/OIG.Z4K7UnXUn8Z2bJA0q1BL"
     },
     "duration": 24,
     "id": "138e8ae3-381e-43d7-a59f-c76a13821567",
@@ -91,7 +67,7 @@
     "description": "В этом модуле мы изучим основы создания трехмерных моделей через создание эскизов. Научимся использовать инструменты рисования, создавать сложные формы и определять параметры эскизов. ",
     "icon": {
       "caption": "Изучение эскизов",
-      "path": "https://www.bing.com/images/create/d0bcd0b8d0bdd0b8d0bcd0b0d0bbd0b8d181d182d0b8d187d0bdd0bed0b5-d0b8d0b7d0bed0b1d180d0b0d0b6d0b5d0bdd0b8d0b5-d098d0b7d183d187d0b5d0bdd0b8d0b5-d18dd181d0bad0b8d0b7d0bed0b2-d0bdd0b0-d0bad0be/1-65b363887a5c46968b979808eb447959?id=V1PSUfXyVTdC35hvxvEzIg%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
+      "path": "https://th.bing.com/th/id/OIG.vkH7.u2uFO1oEurz1TQW"
     },
     "duration": 42,
     "id": "8c908ec4-99ec-47f5-a50c-8fcb304a4257",
@@ -159,7 +135,7 @@
     "description": "Здесь мы проверим ваши навыки по созданию эскизов в КОМПАС-3D. Задачи разнообразны, и вы сможете применить свои знания в различных сценариях.",
     "icon": {
       "caption": "Контрольное мероприятие: Изучение эскизов",
-      "path": "https://www.bing.com/images/create/d0bcd0b8d0bdd0b8d0bcd0b0d0bbd0b8d181d182d0b8d187d0bdd0bed0b5-d0b8d0b7d0bed0b1d180d0b0d0b6d0b5d0bdd0b8d0b5-d098d0b7d183d187d0b5d0bdd0b8d0b5-d18dd181d0bad0b8d0b7d0bed0b2-d0bdd0b0-d0bad0be/1-65b363887a5c46968b979808eb447959?id=V1PSUfXyVTdC35hvxvEzIg%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
+      "path": "https://th.bing.com/th/id/OIG.vkH7.u2uFO1oEurz1TQW"
     },
     "duration": 16,
     "id": "efe954de-709e-4555-87cb-2296b9c81785",
@@ -187,7 +163,7 @@
     "description": "Здесь мы углубимся в мир создания трехмерных объектов, переводя наши эскизы в конкретные детали. Этот модуль призван научить основам создания и редактирования деталей, а также использованию параметров и размеров для точной настройки формы. Поднимите свое мастерство в моделировании, изучая техники работы с разнообразной геометрией и сложными формами.",
     "icon": {
       "caption": "Изучение деталей",
-      "path": "https://www.bing.com/images/create/d0bcd0b8d0bdd0b8d0bcd0b0d0bbd0b8d181d182d0b8d187d0bdd0bed0b5-d0b8d0b7d0bed0b1d180d0b0d0b6d0b5d0bdd0b8d0b5-d098d0b7d183d187d0b5d0bdd0b8d0b5-d182d180d191d185d0bcd0b5d180d0bdd18bd185-d0bcd0be/1-65b3641cec6e4f29ae9af063a3740762?id=Zlh2hlVrkIpbk9bpLisl2g%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
+      "path": "https://th.bing.com/th/id/OIG.9QmuvN.zL2hzzOHUT9k3"
     },
     "duration": 24,
     "id": "53c430a8-ba59-4aa8-8685-4a7d96e52879",
@@ -223,7 +199,7 @@
     "description": "Это контрольное мероприятие предоставляет возможность проверить ваши навыки, а также подготовиться к более сложным задачам трехмерного моделирования.",
     "icon": {
       "caption": "Контрольное мероприятие: Изучение деталей",
-      "path": "https://www.bing.com/images/create/d0bcd0b8d0bdd0b8d0bcd0b0d0bbd0b8d181d182d0b8d187d0bdd0bed0b5-d0b8d0b7d0bed0b1d180d0b0d0b6d0b5d0bdd0b8d0b5-d098d0b7d183d187d0b5d0bdd0b8d0b5-d182d180d191d185d0bcd0b5d180d0bdd18bd185-d0bcd0be/1-65b3641cec6e4f29ae9af063a3740762?id=Zlh2hlVrkIpbk9bpLisl2g%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
+      "path": "https://th.bing.com/th/id/OIG.9QmuvN.zL2hzzOHUT9k3"
     },
     "duration": 16,
     "id": "23a10905-e93c-4119-86dd-80ae524f397c",
@@ -251,7 +227,7 @@
     "description": "В этой части мы углубимся в более сложные аспекты моделирования, изучая инструменты каркаса, элементы тела и продвинутые команды. Цель главы — расширить ваш опыт и предоставить возможность создавать более сложные и интригующие объекты.",
     "icon": {
       "caption": "Изучение деталей: Продолжение",
-      "path": "https://www.bing.com/images/create/d0bcd0b8d0bdd0b8d0bcd0b0d0bbd0b8d181d182d0b8d187d0bdd0bed0b5-d0b8d0b7d0bed0b1d180d0b0d0b6d0b5d0bdd0b8d0b5-d098d0b7d183d187d0b5d0bdd0b8d0b5-d181d0bbd0bed0b6d0bdd18bd185-d182d180d191d185d0bc/1-65b364520d5943f58fbdcc026fa6c652?id=64fXY7ChB4UKsXQTAuP%2f%2fA%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
+      "path": "https://th.bing.com/th/id/OIG.hmTc78RblvtqzF6X7qE."
     },
     "duration": 20,
     "id": "20beca9c-d355-4795-a6b2-f2b08032499c",
@@ -283,7 +259,7 @@
     "description": "Здесь мы переходим от основ к созданию более сложных деталей. Это практическое испытание предложит вам задачи повышенной сложности, проверит ваше мастерство и вдохновит творческий подход.",
     "icon": {
       "caption": "Контрольное мероприятие: Изучение деталей: Продолжение",
-      "path": "https://www.bing.com/images/create/d0bcd0b8d0bdd0b8d0bcd0b0d0bbd0b8d181d182d0b8d187d0bdd0bed0b5-d0b8d0b7d0bed0b1d180d0b0d0b6d0b5d0bdd0b8d0b5-d098d0b7d183d187d0b5d0bdd0b8d0b5-d181d0bbd0bed0b6d0bdd18bd185-d182d180d191d185d0bc/1-65b364520d5943f58fbdcc026fa6c652?id=64fXY7ChB4UKsXQTAuP%2f%2fA%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
+      "path": "https://th.bing.com/th/id/OIG.hmTc78RblvtqzF6X7qE."
     },
     "duration": 16,
     "id": "3edc9e14-9478-4b35-99df-e9bdff3105c4",
@@ -311,7 +287,7 @@
     "description": "Здесь вы научитесь объединять детали в функциональные конструкции, использовать различные виды соединений и инструменты позиционирования для точного выравнивания. Создание сборок предоставляет возможность воплотить ваши проекты в сложных механических системах.",
     "icon": {
       "caption": "Создание сборок",
-      "path": "https://www.bing.com/images/create/d0bcd0b8d0bdd0b8d0bcd0b0d0bbd0b8d181d182d0b8d187d0bdd0bed0b5-d0b8d0b7d0bed0b1d180d0b0d0b6d0b5d0bdd0b8d0b5-d098d0b7d183d187d0b5d0bdd0b8d0b5-d181d0bbd0bed0b6d0bdd18bd185-d181d0b1d0bed180d0bd/1-65b3648908984dc58b97874d08ddfe13?id=iBv5%2b275NyBtfQH83ebraQ%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
+      "path": "https://th.bing.com/th/id/OIG.qBQeZ12JTUjhGZqaMoan"
     },
     "duration": 20,
     "id": "15d179e7-ab0b-4033-a88e-37c0bcbea5f7",
@@ -336,6 +312,30 @@
       {
         "title": "Создание сборок. Заключение",
         "id": "89319948-4f32-4efb-ad4b-832d07a6083a"
+      }
+    ]
+  },
+  {
+    "description": "В этой части обучения мы рассмотрим ключевые аспекты создания сложных сборок с взаимодействием различных компонентов. Мероприятие предоставит возможность проверить ваши навыки в этой области, охватывая разнообразные задачи и оценивая ваше владение принципами работы с компонентами и соединениями в сборке.",
+    "icon": {
+      "caption": "Контрольное мероприятие: Создание сборок",
+      "path": "https://th.bing.com/th/id/OIG.qBQeZ12JTUjhGZqaMoan"
+    },
+    "duration": 12,
+    "id": "0880c01b-7864-48e5-a8a2-0aefaca08837",
+    "title": "Контрольное мероприятие",
+    "lessons": [
+      {
+        "title": "Контрольное мероприятие. Введение",
+        "id": "d1ddb744-4054-4c3f-886c-9dd9dbbf7072"
+      },
+      {
+        "title": "Сборка",
+        "id": "d8355e13-841f-4130-ba81-abf4ff17d2c9"
+      },
+      {
+        "title": "Контрольное мероприятие. Заключение",
+        "id": "5cd8f23f-7165-4e97-b5d5-d9b98fb2508c"
       }
     ]
   }
